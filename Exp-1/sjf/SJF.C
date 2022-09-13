@@ -1,12 +1,5 @@
-
-/* Name Of the Candidate: N.Hari Krishna
-   Roll No: 214G5A0505
-   Title of the Experiment: CPU Scheduling Using FCFS Algorithm
-   Date of Creation: 06-09-2022
-   Date of Execution: 06-09-2022
-*/
 #include<stdio.h>
- void main()
+int main()
 {
 int p[20], bt[20], wt[20], tat[20], i, k, n, temp; float wtavg,
 tatavg;
@@ -42,6 +35,4 @@ printf("\n\t PROCESS \tBURST TIME \t WAITING TIME\t TURNAROUND TIME\n");
 for(i=0;i<n;i++)
 printf("\n\t P%d \t\t %d \t\t %d \t\t %d", p[i], bt[i], wt[i], tat[i]);
 printf("\nAverage Waiting Time -- %f", wtavg/n);
-printf("\nAverage Turnaround Time -- %f", tatavg/n);
-    
-}
+printf("\nAverage Turnaround Time -- %f", tatavg/n);}
