@@ -1,0 +1,48 @@
+<pre>Enter name of directory -- fruits
+
+
+1. Create File	2. Delete File	3. Search File 
+4. Display Files	5. Exit
+Enter your choice -- 1
+
+Enter the name of the file -- mango
+
+
+1. Create File	2. Delete File	3. Search File 
+4. Display Files	5. Exit
+Enter your choice -- 1
+
+Enter the name of the file -- banana
+
+
+1. Create File	2. Delete File	3. Search File 
+4. Display Files	5. Exit
+Enter your choice -- 1
+
+Enter the name of the file -- apple
+
+
+1. Create File	2. Delete File	3. Search File 
+4. Display Files	5. Exit
+Enter your choice -- 2
+
+Enter the name of the file -- apple
+File apple is deleted 
+
+1. Create File	2. Delete File	3. Search File 
+4. Display Files	5. Exit
+Enter your choice -- 3
+
+Enter the name of the file -- apple
+File apple not found
+
+1. Create File	2. Delete File	3. Search File 
+4. Display Files	5. Exit
+Enter your choice -- 4
+
+The Files are -- 	mango	banana
+
+1. Create File	2. Delete File	3. Search File 
+4. Display Files	5. Exit
+Enter your choice -- 5
+</pre>
