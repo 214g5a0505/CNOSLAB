@@ -1,0 +1,10 @@
+<pre>Enter no of jobs: 3
+Enter name and time: a 1
+Enter name and time: b 3
+Enter name and time: ef
+3
+Enter the available resources:5
+abefSafe sequence is:a 1
+b 3
+ef 3
+</pre>
